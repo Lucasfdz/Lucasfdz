@@ -4,12 +4,13 @@
 
 👀 I’m interested in Data Science & Data Analytics.
 
-🌱 I’m currently learning Data Science with Hack a Boss
+🌱 I’m currently learning more about Data Science with Hack a Boss
 
-💞️ I’m looking to find a job and/or collaborate in a Data Science project.
+💞️ I’m working as an BI and Data Science consultant at Atlantic IT Solutions.
 
 📫 How to reach me:
      lucasfdzmtz@hotmail.com
+     lfernandez@atlantic.gal
      (+34) 629 539 270
 
 <!---
