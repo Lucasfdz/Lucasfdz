@@ -1,6 +1,4 @@
 👋 Hi, I’m @Lucasfdz (Lucas Fernández). 
-      
-      I come from the world of HSE and Sustainability consulting, and I want to enter the world of Data Science contributing my knowledge and experience.
 
 👀 I’m interested in Data Science & Data Analytics.
 
