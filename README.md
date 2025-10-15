@@ -4,13 +4,13 @@
 
 👀 I’m interested in Data Science & Data Analytics.
 
-🌱 I’m currently learning more about Data Science with Hack a Boss
+🌱 I’m allways learning more about Data Science, GIS & Data Analytics
 
-💞️ I’m working as an BI and Data Science consultant at Atlantic IT Solutions.
+💞️ I’m working as Data Analyst at Ideas Medioambientales.
 
 📫 How to reach me:
      lucasfdzmtz@hotmail.com
-     lfernandez@atlantic.gal
+     lucas@ideasmedioambientales.com
     
 
 <!---
